@@ -1,0 +1,18 @@
+[2023-12-17 18:53:06] Successful login - User: emp9, IP: ::1
+[2023-12-18 13:54:20] Successful login - User: emp9, IP: ::1
+[2023-12-19 15:49:35] Successful login - User: emp9, IP: ::1
+[2023-12-21 13:18:19] Successful login - User: emp9, IP: ::1
+[2023-12-21 21:58:49] Successful login - User: emp9, IP: ::1
+[2023-12-21 22:01:51] Successful login - User: emp9, IP: ::1
+[2023-12-21 22:08:32] Failed login attempt - User: Employee2, IP: ::1
+[2023-12-21 22:08:37] Failed login attempt - User: Employee2, IP: ::1
+[2023-12-21 22:08:40] Failed login attempt - User: Employee2, IP: ::1
+[2023-12-21 22:08:40] Account locked - User: Employee2, IP: ::1
+[2023-12-21 22:21:52] Successful login - User: xian23, IP: ::1
+[2023-12-21 22:22:30] Successful login - User: emp9, IP: ::1
+[2023-12-21 22:22:40] Failed login attempt - User: emp9, IP: ::1
+[2023-12-21 22:22:44] Failed login attempt - User: emp9, IP: ::1
+[2023-12-21 22:22:49] Failed login attempt - User: emp9, IP: ::1
+[2023-12-21 22:22:49] Account locked - User: emp9, IP: ::1
+[2023-12-21 23:47:55] Successful login - User: Lesly12, IP: ::1
+[2023-12-22 00:22:39] Successful login - User: emp12, IP: ::1

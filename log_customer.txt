@@ -1,0 +1,21 @@
+[2023-12-17 18:48:47] Successful login: NoName4
+[2023-12-17 18:49:09] Failed login attempt - User: NoName4, IP: ::1
+[2023-12-17 19:18:25] Successful login: NoName3
+[2023-12-18 14:12:46] Successful login: NoName4
+[2023-12-18 14:21:37] Successful login: NoName4
+[2023-12-18 14:23:50] Successful login: NoName4
+[2023-12-19 15:46:46] Successful login: NoName4
+[2023-12-21 13:20:38] Successful login: NoName4
+[2023-12-21 21:45:47] Successful login: leo21
+[2023-12-21 22:01:03] Successful login: leo21
+[2023-12-21 22:02:20] Successful login: leo21
+[2023-12-21 23:51:25] Successful login: Customer1
+[2023-12-21 23:52:34] Failed login attempt - User: Customer1, IP: ::1
+[2023-12-21 23:52:40] Failed login attempt - User: Customer1, IP: ::1
+[2023-12-21 23:52:44] Failed login attempt - User: Customer1, IP: ::1
+[2023-12-21 23:52:44] Account locked for user: Customer1 due to multiple incorrect login attempts.
+[2023-12-22 00:24:41] Successful login: cust12
+[2023-12-22 00:27:16] Failed login attempt - User: cust12, IP: ::1
+[2023-12-22 00:27:20] Failed login attempt - User: cust12, IP: ::1
+[2023-12-22 00:27:24] Failed login attempt - User: cust12, IP: ::1
+[2023-12-22 00:27:24] Account locked for user: cust12 due to multiple incorrect login attempts.
